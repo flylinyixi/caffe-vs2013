@@ -4,7 +4,7 @@
 *
 * Start caffe training from Visual Studio
 */
-
+//添加项目用于测试
 #include "caffe/caffe.hpp"
 #include "caffe/util/io.hpp"
 #include "caffe/blob.hpp"
